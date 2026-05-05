@@ -1,0 +1,6 @@
+# 不需要提交的文件
+node_modules/
+*.pdf
+convert.js
+package.json
+package-lock.json
